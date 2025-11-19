@@ -2,7 +2,7 @@
 ````markdown
 # AWS FINAL - SISTEMAS OPERATIVOS
 
-Integrante: Juan José Burbano Bolaños
+Integrantes: Juan José Burbano Bolaños
             Danilo Andrés Montezuma
 
 ## Conectar con el cliente
